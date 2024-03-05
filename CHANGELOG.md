@@ -1,5 +1,11 @@
 # Changelog
 
+## [10.5.1](https://github.com/npm/cli/compare/v10.5.0...v10.5.1) (2024-03-05)
+
+### Chores
+
+* [`af3c48e`](https://github.com/npm/cli/commit/af3c48e074d03caebaa8ed24d39405329f545497) [#7262](https://github.com/npm/cli/pull/7262) test refactor (#7262) (@wraithgar)
+
 ## [10.5.0](https://github.com/npm/cli/compare/v10.4.0...v10.5.0) (2024-02-28)
 
 ### Features
